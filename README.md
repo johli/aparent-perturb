@@ -1,4 +1,3 @@
-A multi-task neural network for predicting perturbation responses to Alternative Polyadenylation usage levels
 ![APARENT-Perturb Logo](https://github.com/johli/aparent-perturb/blob/master/aparent_perturb_logo.png?raw=true)
 
 # APARENT-Perturb
